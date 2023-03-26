@@ -1,1 +1,2 @@
-buffalo wings
+buffalo wings 
+Buffalo wings
